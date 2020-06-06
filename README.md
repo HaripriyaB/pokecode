@@ -1,5 +1,6 @@
-# fluttermlh
+# Youtube Api in flutter
 
-A new Flutter application built for MLH.
+This app contains the code inspired from [Marcus Ng](https://www.youtube.com/watch?v=feQhHStBVLE)
 
-It fetches youtube videos using youtube API and play the videos on Flutter platform.
+It's basically a youtude Api integrated with flutter application.
+
